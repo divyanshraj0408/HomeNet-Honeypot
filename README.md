@@ -29,7 +29,7 @@
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/homenet-honeypot.git
+git clone --recurse-submodules https://github.com/yourusername/homenet-honeypot.git
 cd homenet-honeypot
 ```
 
