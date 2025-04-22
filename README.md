@@ -1,6 +1,6 @@
 # 🛡️ HomeNet Honeypot
 
-**HomeNet Honeypot** is a beginner-friendly security project to help you monitor and visualize potential intrusion attempts on your home Wi-Fi network. It uses [Cowrie](https://github.com/cowrie/cowrie), a medium-interaction SSH/Telnet honeypot, and visualizes attack data in a custom Flask + Chart.js web dashboard.
+**HomeNet Honeypot** is a tool to help you monitor and visualize potential intrusion attempts on your home Wi-Fi network. It uses [Cowrie](https://github.com/cowrie/cowrie), a medium-interaction SSH/Telnet honeypot, and visualizes attack data in a custom Flask + Chart.js web dashboard.
 
 ---
 
