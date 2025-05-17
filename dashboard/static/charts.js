@@ -18,8 +18,8 @@ fetch("/logs")
           {
             label: "Attack Count",
             data: values,
-            backgroundColor: "rgba(75, 192, 192, 0.6)",
-            borderColor: "rgb(6, 71, 71)",
+            backgroundColor: "rgba(37, 129, 129, 0.6)",
+            borderColor: "rgb(1, 17, 17)",
           },
         ],
       },
