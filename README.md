@@ -85,4 +85,6 @@ python app.py
 Visit: http://localhost:5000
 
 ### 📸 Screenshot
-![image](https://github.com/user-attachments/assets/e711474d-e1f9-43ce-a695-0ff24c2b05a8)
+![image1](https://github.com/user-attachments/assets/e711474d-e1f9-43ce-a695-0ff24c2b05a8)
+![image2](https://github.com/user-attachments/assets/2c7479ab-c5da-4210-b494-f1ef45c478c2)
+
